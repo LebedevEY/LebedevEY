@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LebedevEY
+- 👀 I’m interested in music, literature and car racing
+- 🌱 I’m currently learning in GeekBrains
