@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @LebedevEY
-- 👀 I’m interested in music, literature and car racing
-- 🌱 I’m currently learning in GeekBrains
+- Hi, I’m Lebedev Evgeniy
+- I’m interested in music, literature and car racing
+- I’m currently learning in GeekBrains
+- I’m recently became interested in WEB-development, I like to study this topic and develop my knowledge
